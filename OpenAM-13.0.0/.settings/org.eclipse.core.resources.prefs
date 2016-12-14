@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//openam-server-only/src/main/webapp/com_sun_web_ui/jsp/version/Version.jsp=UTF-8
+encoding//openam-server-only/target/OpenAM-ServerOnly-13.0.0/XUI/locales/en/translation.json=UTF-8
+encoding//openam-server-only/target/XUI/locales/en/translation.json=UTF-8
+encoding//openam-server/target/openam/XUI/locales/en/translation.json=UTF-8
+encoding//openam-ui/openam-ui-ria/src/main/resources/locales/en/device.json=UTF-8
+encoding//openam-ui/openam-ui-ria/src/main/resources/locales/en/translation.json=UTF-8
+encoding//openam-ui/openam-ui-ria/target/classes/locales/en/translation.json=UTF-8
+encoding//openam-ui/openam-ui-ria/target/compiled/locales/en/translation.json=UTF-8
+encoding//openam-ui/openam-ui-ria/target/composed/locales/en/translation.json=UTF-8
